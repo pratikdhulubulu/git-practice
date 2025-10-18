@@ -2,6 +2,6 @@
 int main()
 {
     printf("feature 1\n");
-    //bug fixed
+    //bug (printf) fixed
     return 0;
 }
