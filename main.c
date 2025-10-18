@@ -3,6 +3,6 @@ int main()
 {
     printf("feature 1\n");
     printf("feature 2\n");
-    //bug fixed
+    //bug (printf) fixed
     return 0;
 }
