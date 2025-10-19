@@ -7,5 +7,6 @@ int main()
     printf("feature 4\n");
     // Four_Feature_Release_1.0
     printf("feature 5\n");
+    // Feature 5 is now released
     return 0;
 }
